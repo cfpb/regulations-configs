@@ -1,5 +1,3 @@
-from regparser.default_settings import *
-
 #### Regulation Z
 
 IGNORE_DEFINITIONS_IN_PART_1026 = [
@@ -24,6 +22,5 @@ IGNORE_DEFINITIONS_IN_PART_1026 = [
     'states specific',
 ]
 
-IGNORE_DEFINITIONS_IN['1026'] = IGNORE_DEFINITIONS_IN_PART_1026
 
 

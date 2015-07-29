@@ -1,5 +1,3 @@
-from regparser.default_settings import *
-
 #### Regulation B
 
 IGNORE_DEFINITIONS_IN_PART_1002 = [
@@ -32,7 +30,6 @@ IGNORE_DEFINITIONS_IN_PART_1002 = [
     'Insured State Savings Associations',
 ]
 
-IGNORE_DEFINITIONS_IN['1002'] = IGNORE_DEFINITIONS_IN_PART_1002
 
 INCLUDE_DEFINITIONS_IN_PART_1002 = [
     ('Adverse action', 'Adverse action'),
@@ -40,10 +37,8 @@ INCLUDE_DEFINITIONS_IN_PART_1002 = [
     ('credit scoring system', 'Empirically derived and other credit scoring systems.'),
     # ('empirically derived, demonstrably and statistically sound, credit scoring system', 'To qualify as an empirically derived, demonstrably and statistically sound, credit scoring system, the system must be')
 ]
-INCLUDE_DEFINITIONS_IN['1002'] = INCLUDE_DEFINITIONS_IN_PART_1002
 
 APPENDIX_IGNORE_SUBHEADER_LABEL_1002 = {
     'C': ['I', 'II',],
 }
-APPENDIX_IGNORE_SUBHEADER_LABEL['1002'] = APPENDIX_IGNORE_SUBHEADER_LABEL_1002
 

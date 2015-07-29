@@ -32,8 +32,8 @@ IGNORE_DEFINITIONS_IN_ALL = [
     'International Bank Account Numbers',
     'Business Identifier Codes',
     'credit union',
-    'in person'
+    'in person',
+    'act',
 ]
 
-IGNORE_DEFINITIONS_IN['ALL'] = IGNORE_DEFINITIONS_IN_ALL
 
