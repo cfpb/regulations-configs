@@ -14,10 +14,28 @@ regulations](http://www.consumerfinance.gov/eregulations/) with
 configuration files can also be used as examples in cases unrelated to
 CFPB's regulations.
 
-## Using these files
+## Using 
 
-The contents of these files should be included in the regulations-parser
-`local_settings.py` files as needed for each regulation.
+To use this configuration *for CFPB regulations only*, install this
+package in the same Python environment as regulations-parser. For
+example, from a working git clone of this repository that you can modify:
+
+```shell
+cd regulations-configs
+pip install -e .
+```
+
+Then regulations-parser should pick up the configuration in `regconfig`
+automatically.
+
+To install directly, not as a working copy that you modify but as a
+standard Python package that will have to be reinstalled if there are
+any configuration changes, run the following command within the
+regulations-parser Python environment:
+
+```shell
+pip install pip install git+https://github.com/cfpb/regulations-configs
+```
 
 ## Open source licensing info
 
