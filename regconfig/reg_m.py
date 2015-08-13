@@ -14,5 +14,5 @@ IGNORE_DEFINITIONS_IN_PART_1013 = [
 ]
 
 INCLUDE_DEFINITIONS_IN_PART_1013 = [
-    ('Bureau', 'Bureau')
+    ('Bureau', 'Bureau refers to the Bureau')
 ]
