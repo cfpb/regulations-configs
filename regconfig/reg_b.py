@@ -28,6 +28,7 @@ IGNORE_DEFINITIONS_IN_PART_1002 = [
     'and states his income',
     'Insured State Branches of Foreign Banks',
     'Insured State Savings Associations',
+    'the state of being unmarried',
 ]
 
 
