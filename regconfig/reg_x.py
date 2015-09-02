@@ -135,3 +135,24 @@ PARAGRAPH_HIERARCHY_1024 = {
         1, 2
     ]
 }
+
+IGNORE_DEFINITIONS_IN_PART_1024 = [
+    'shall state',
+    'state that such',
+    'state the reason',
+    'state the split',
+    'must state',
+    'must state',
+    'states that',
+    'states whether',
+    'states the information',
+    'states the charge',
+    'states the net',
+    'briefly states',
+    'states the reasons',
+]
+
+INCLUDE_DEFINITIONS_IN_PART_1024 = [
+    ('Associate', 'Associate is defined in section 3(8) of RESPA (12 U.S.C. 2602(8)).'),
+    ('Effective date of transfer', 'Effective date of transfer')
+]
