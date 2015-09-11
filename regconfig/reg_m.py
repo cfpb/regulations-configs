@@ -10,7 +10,13 @@ IGNORE_DEFINITIONS_IN_PART_1013 = [
     'shall also state the following',
     'states the items listed',
     'subject to the Act and this part',
-    'act'
+    'act',
+    'Dodd-Frank Act',
+    'Consumer Leasing Act',
+    'security alarm systems',
+    'using the first person, instead of the second person',
+    'Lease transactions subject to the Maine Consumer Credit Code',
+    'Lease transactions subject to the Oklahoma Consumer Credit Code',
 ]
 
 INCLUDE_DEFINITIONS_IN_PART_1013 = [
