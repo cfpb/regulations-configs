@@ -29,7 +29,7 @@ IGNORE_DEFINITIONS_IN_PART_1002 = [
     'Insured State Branches of Foreign Banks',
     'Insured State Savings Associations',
     'the state of being unmarried',
-    'into account any system',
+    'into account in any system',
     'take into account',
     'consideration or application of',
 ]
