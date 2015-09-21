@@ -7,12 +7,11 @@ INCLUDE_DEFINITIONS_IN_PART_1004 = [
 PARAGRAPH_HIERARCHY_1004 = {
     '1004.2': [
         (1, 'none'),
-        1,
         2, 2, 2,
-        1,
-        1,
+        (1, 'none'),
+        (1, 'none'),
         2, 2, 2, 2,
-        1,
-        1,
+        (1, 'none'),
+        (1, 'none'),
     ],
 }
