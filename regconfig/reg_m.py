@@ -13,8 +13,9 @@ IGNORE_DEFINITIONS_IN_PART_1013 = [
     'act',
     'Dodd-Frank Act',
     'Consumer Leasing Act',
-    'security alarm systems',
-    'using the first person, instead of the second person',
+    'Security alarm systems',
+    'first person',
+    'second person',
     'Lease transactions subject to the Maine Consumer Credit Code',
     'Lease transactions subject to the Oklahoma Consumer Credit Code',
 ]
