@@ -29,6 +29,9 @@ IGNORE_DEFINITIONS_IN_PART_1002 = [
     'Insured State Branches of Foreign Banks',
     'Insured State Savings Associations',
     'the state of being unmarried',
+    'into account in any system',
+    'take into account',
+    'consideration or application of',
 ]
 
 
@@ -42,4 +45,3 @@ INCLUDE_DEFINITIONS_IN_PART_1002 = [
 APPENDIX_IGNORE_SUBHEADER_LABEL_1002 = {
     'C': ['I', 'II',],
 }
-
