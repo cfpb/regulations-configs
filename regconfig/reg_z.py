@@ -20,6 +20,9 @@ IGNORE_DEFINITIONS_IN_PART_1026 = [
     'fail to credit',
     'consumer reporting agency',
     'states specific',
+    'act',
+    'Act',
+    'deferred interest or similar plan',
 ]
 
 
