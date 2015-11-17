@@ -20,3 +20,4 @@ PARAGRAPH_HIERARCHY_1004 = {
         (1, 'none'),
     ],
 }
+
